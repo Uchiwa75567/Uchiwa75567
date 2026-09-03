@@ -4,7 +4,7 @@
 <tr>
 <td width="70%" valign="middle">
 
-<img src="./hero-info.svg?v=1" width="100%" alt="Bachir Diame — Full Stack & Mobile Developer" />
+<img src="./hero-info.svg?v=2" width="100%" alt="Bachir Diame — Full Stack & Mobile Developer" />
 
 </td>
 <td width="30%" align="center" valign="middle">
@@ -39,7 +39,7 @@ I design and build **clean, scalable and useful digital products** — from mode
 
 **What I enjoy building:** Web platforms • Mobile apps • APIs • DevOps workflows • Practical AI integrations
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-bachir.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-bachir.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GITHUB-UCHIWA75567-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uchiwa75567)
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bachirdiame61@gmail.com)
 
@@ -117,12 +117,12 @@ Digital solution exploring technology for agriculture and practical field-orient
 
 <table>
 <tr>
-<td width="50%"><img src="./stats.svg?v=6" width="100%" alt="Developer stats" /></td>
-<td width="50%"><img src="./langs.svg?v=6" width="100%" alt="Languages and frameworks" /></td>
+<td width="50%"><img src="./stats.svg?v=7" width="100%" alt="Developer stats" /></td>
+<td width="50%"><img src="./langs.svg?v=7" width="100%" alt="Languages and frameworks" /></td>
 </tr>
 </table>
 
-<img src="./trophies.svg?v=6" width="100%" alt="Developer achievements" />
+<img src="./trophies.svg?v=7" width="100%" alt="Developer achievements" />
 
 ---
 
@@ -138,6 +138,6 @@ Digital solution exploring technology for agriculture and practical field-orient
 
 ### `bachir@github:~$ echo "Code. Build. Ship. Learn. Repeat."`
 
-![Profile Views](https://komarev.com/ghpvc/?username=Uchiwa75567&style=for-the-badge&color=8b5cf6)
+![Profile Views](https://komarev.com/ghpvc/?username=Uchiwa75567&style=for-the-badge&color=2563eb)
 
 </div>
