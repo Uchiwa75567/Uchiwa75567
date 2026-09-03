@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+  <img src="./portrait.svg" width="620" alt="Portrait terminal animé">
+</p>
 <!--
 **Uchiwa75567/Uchiwa75567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
