@@ -4,12 +4,17 @@
 <tr>
 <td width="70%" valign="middle">
 
-<img src="./banner.svg?v=12" width="100%" alt="Bachir Diame — Full Stack & Mobile Developer" />
+<img src="./hero-info.svg?v=1" width="100%" alt="Bachir Diame — Full Stack & Mobile Developer" />
 
 </td>
 <td width="30%" align="center" valign="middle">
 
 <img src="./assets/bachir-hero.jpg" width="100%" alt="Bachir in a developer workspace" />
+
+<br/>
+
+**Bachir Diame**  
+`Full Stack • Mobile • DevOps`
 
 </td>
 </tr>
