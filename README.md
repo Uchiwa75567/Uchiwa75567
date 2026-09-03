@@ -1,6 +1,19 @@
 <div align="center">
 
-<img src="./assets/bachir-premium-hero.gif" width="100%" alt="Bachir Diame — Full Stack & Mobile Developer" />
+<table>
+<tr>
+<td width="70%" valign="middle">
+
+<img src="./banner.svg?v=12" width="100%" alt="Bachir Diame — Full Stack & Mobile Developer" />
+
+</td>
+<td width="30%" align="center" valign="middle">
+
+<img src="./assets/bachir-hero.jpg" width="100%" alt="Bachir in a developer workspace" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
