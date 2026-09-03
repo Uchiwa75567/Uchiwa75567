@@ -1,17 +1,19 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Bachir animated developer terminal" />
+<img src="./banner.svg?v=6" width="100%" alt="Bachir Diame — Full Stack & Mobile Developer" />
 
-<img src="./lanyard.svg" width="100%" alt="Bachir developer ID" />
+<br/>
+
+<img src="./lanyard.svg?v=6" width="285" alt="Bachir developer ID badge" />
 
 ### `> ./about-me.sh`
 
 **Full Stack Web & Mobile Developer** based in **Dakar, Senegal** 🇸🇳  
-I build useful digital products across **Web • Mobile • DevOps • AI**.
+I design and build **clean, scalable and useful digital products** — from modern interfaces to backend APIs, mobile applications and deployment pipelines.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-bachir.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Uchiwa75567-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uchiwa75567)
-[![Email](https://img.shields.io/badge/Email-Contact-22D3EE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bachirdiame61@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-bachir.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GITHUB-UCHIWA75567-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uchiwa75567)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bachirdiame61@gmail.com)
 
 ---
 
@@ -32,11 +34,75 @@ I build useful digital products across **Web • Mobile • DevOps • AI**.
 
 ---
 
+## 🚀 `projects --featured`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Portfolio Bachir
+Personal developer portfolio showcasing projects, skills and experience.
+
+**Stack:** TypeScript • Frontend • Vercel  
+[View repository →](https://github.com/Uchiwa75567/portfolio-bachir)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏛️ Musée des Civilisations Noires
+Digital museum experience built around interactive content and modern web interfaces.
+
+**Focus:** Web experience • UI/UX • Digital culture  
+[View repository →](https://github.com/Uchiwa75567/mus-e_civilisation_noire)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Gestion Salaire
+Salary-management application focused on business workflows and structured interfaces.
+
+**Focus:** Full Stack • Business logic • Dashboard  
+[View repository →](https://github.com/Uchiwa75567/gestion-salaire)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 AgriDev
+Digital solution exploring technology for agriculture and practical field-oriented use cases.
+
+**Focus:** Digital product • Agriculture • Data  
+[View repository →](https://github.com/Uchiwa75567/agridev)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 📊 `developer --stats`
 
-<table><tr><td width="50%"><img src="./stats.svg" width="100%" alt="Developer stats" /></td><td width="50%"><img src="./langs.svg" width="100%" alt="Languages" /></td></tr></table>
+<table>
+<tr>
+<td width="50%"><img src="./stats.svg?v=6" width="100%" alt="Developer stats" /></td>
+<td width="50%"><img src="./langs.svg?v=6" width="100%" alt="Languages and frameworks" /></td>
+</tr>
+</table>
 
-<img src="./trophies.svg" width="100%" alt="Developer achievements" />
+<img src="./trophies.svg?v=6" width="100%" alt="Developer achievements" />
+
+---
+
+## 💡 `currently --focused-on`
+
+```text
+01. Building robust web platforms
+02. Designing mobile experiences
+03. Creating clean backend APIs
+04. Improving DevOps & deployment workflows
+05. Exploring practical AI integrations
+```
 
 ---
 
@@ -45,7 +111,7 @@ I build useful digital products across **Web • Mobile • DevOps • AI**.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Uchiwa75567/Uchiwa75567/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Uchiwa75567/Uchiwa75567/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Uchiwa75567/Uchiwa75567/output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Uchiwa75567/Uchiwa75567/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 ---
