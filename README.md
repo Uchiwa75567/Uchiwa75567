@@ -1,19 +1,33 @@
 <div align="center">
 
-<img src="./banner.svg?v=6" width="100%" alt="Bachir Diame — Full Stack & Mobile Developer" />
+<img src="./assets/bachir-premium-hero.gif?v=1" width="100%" alt="Bachir Diame — Full Stack & Mobile Developer" />
 
 <br/>
 
-<img src="./lanyard.svg?v=6" width="285" alt="Bachir developer ID badge" />
+<table>
+<tr>
+<td width="34%" align="center" valign="top">
+
+<img src="./lanyard.svg?v=6" width="235" alt="Bachir developer ID badge" />
+
+</td>
+<td width="66%" valign="middle">
 
 ### `> ./about-me.sh`
 
-**Full Stack Web & Mobile Developer** based in **Dakar, Senegal** 🇸🇳  
-I design and build **clean, scalable and useful digital products** — from modern interfaces to backend APIs, mobile applications and deployment pipelines.
+**Full Stack Web & Mobile Developer** based in **Dakar, Senegal** 🇸🇳
+
+I design and build **clean, scalable and useful digital products** — from modern web interfaces to backend APIs, mobile applications and deployment pipelines.
+
+**What I enjoy building:** Web platforms • Mobile apps • APIs • DevOps workflows • Practical AI integrations
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-bachir.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GITHUB-UCHIWA75567-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uchiwa75567)
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bachirdiame61@gmail.com)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -91,18 +105,6 @@ Digital solution exploring technology for agriculture and practical field-orient
 </table>
 
 <img src="./trophies.svg?v=6" width="100%" alt="Developer achievements" />
-
----
-
-## 💡 `currently --focused-on`
-
-```text
-01. Building robust web platforms
-02. Designing mobile experiences
-03. Creating clean backend APIs
-04. Improving DevOps & deployment workflows
-05. Exploring practical AI integrations
-```
 
 ---
 
